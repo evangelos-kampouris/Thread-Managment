@@ -2,7 +2,7 @@
 #include <time.h>
 #include "pizzaria.h"
 
-//GENERAL TO-DO RC CODES/CHECK FOR ERRORS IN THREADS.
+
 
 void rcCheckerMutex(int rc,int type){
     if (rc != 0) {  
